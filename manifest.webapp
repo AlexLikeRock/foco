@@ -1,0 +1,18 @@
+{
+  "name": "Foco",
+  "description": "la luz que todo mundo nesesita",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/pic_bulbon.png",
+    
+  },
+  "developer": {
+    "name": "AlexLikeRock",
+    "url": "http://www.fsf.org"
+  },
+  "permissions": {
+    "desktop-notification": {
+      "description": "Necesario para la oscuridad."
+    }
+  }
+}
