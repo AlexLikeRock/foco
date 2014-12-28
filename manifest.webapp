@@ -1,6 +1,6 @@
 {
-"name": "Foco",
-"description": "un simple foco para las noches. echo por AlexLikeRock",
+  "name": "Foco",
+    "description": "un simple foco para las noches. echo por AlexLikeRock",
 
-"launch_path": "/index.html"
+      "launch_path": "/index.html"
 }
